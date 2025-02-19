@@ -1,0 +1,165 @@
+{
+	"id": "ptu",
+	"title": "Pokemon Tabletop United v12",
+	"description": "An updated Version of the re-imagining of the Pokemon Tabletop United TTRPG System now made with FoundryVTT as a central pilar.",
+    "authors": [
+		{
+		  "name": "Ashe Piera",
+		  "email": "ptu@soaringnetwork.com",
+		  "url": "https://github.com/dylanpiera/Foundry-Pokemon-Tabletop-United-System"
+		},
+		{
+		  "name": "GSV A Nest of Kindled Embers"
+		},
+		{
+		  "name": "Ellam Fox"
+		},
+		{
+		  "name": "Muhsigbokz"
+		},
+		{
+		  "name": "Tymo Wessel"
+		},
+		{
+		  "name": "Jeffrey Hollander"
+		},
+		{
+		  "name": "Efren A. Mariño"
+		},
+		{
+		  "name": "Cody Swendrowski",
+		  "url": "https://swendrowski.us"
+		},
+        {
+            "name": "Goody",
+            "discord": "Goody#2054",
+            "email": "maron.moeller@gmail.com"
+        }
+    ],
+	"version": "3.5.0",
+    "compatibility": {
+        "minimum": 12,
+        "verified": "12.328",
+        "maximum": 13
+    },
+	"templateVersion": 2,
+
+	"esmodules": [
+		"module/ptu.js"
+	],
+	"styles": [
+		"css/ptu.css",
+		"css/main.css",
+		"import/jquery-ui.css"
+	],
+	"scripts": [
+		"import/jquery-ui.js",
+		"css/bootstrap.js"
+	],
+	"packs": [
+		{
+			"label": "abilities",
+			"entity": "Item",
+			"name": "abilities",
+			"path": "packs/abilities.db",
+			"system": "ptu"
+		},
+		{
+			"label": "moves",
+			"entity": "Item",
+			"name": "moves",
+			"path": "packs/moves.db",
+			"system": "ptu"
+		},
+		{
+			"label": "feats",
+			"entity": "Item",
+			"name": "feats",
+			"path": "packs/feats.db",
+			"system": "ptu"
+		},
+		{
+			"label": "edges",
+			"entity": "Item",
+			"name": "edges",
+			"path": "packs/edges.db",
+			"system": "ptu"
+		},
+		{
+			"label": "items",
+			"entity": "Item",
+			"name": "items",
+			"path": "packs/items.db",
+			"system": "ptu"
+		},
+		{
+			"label": "capabilities",
+			"entity": "Item",
+			"name": "capabilities",
+			"path": "packs/capabilities.db",
+			"system": "ptu"
+		},
+		{
+			"label": "poke edges",
+			"entity": "Item",
+			"name": "poke-edges",
+			"path": "packs/poke-edges.db",
+			"system": "ptu"
+		},
+		{
+			"label": "dex entries",
+			"entity": "Item",
+			"name": "dex-entries",
+			"path": "packs/dex-entries.db",
+			"system": "ptu"
+		},
+		{
+			"label": "fan game content",
+			"entity": "Item",
+			"name": "fan-game-content",
+			"path": "packs/fan-game-content.db",
+			"system": "ptu"
+		},
+		{
+			"label": "uranium & sage dex",
+			"entity": "Item",
+			"name": "uranium-and-sage-dex",
+			"path": "packs/uranium-and-sage-dex.db",
+			"system": "ptu"
+		},
+		{
+			"label": "habitats",
+			"entity": "RollTable",
+			"name": "habitats",
+			"path": "packs/habitats.db",
+			"system": "ptu"
+		},
+		{
+			"label": "maneuvers",
+			"entity": "Item",
+			"name": "maneuvers",
+			"path": "packs/maneuvers.db",
+			"system": "ptu"
+		}
+	],
+	"languages": [
+		{
+			"lang": "en",
+			"name": "English",
+			"path": "lang/en.json"
+		}
+	],
+	
+	"socket": true,
+    "grid": {
+      "distance": 1,
+      "units": "m"
+    },
+    "primaryTokenAttribute": "health",
+    "secondaryTokenAttribute": "exp",
+    "url": "https://github.com/Thegoodmen/Goodys-PTU-System",
+    "manifest": "https://github.com/Thegoodmen/Goodys-PTU-System/releases/latest/download/system.json",
+	"changelog": "https://github.com/Thegoodmen/Goodys-PTU-System/raw/master/changelog.md",
+    "download": "https://github.com/Thegoodmen/Goodys-PTU-System/releases/latest/download/system.zip",
+	"license": "LICENSE.txt"
+}
