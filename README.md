@@ -12,21 +12,11 @@
 - Drag & Drop support for Abilities, Capabilities, Dex Entries, Edges, Features, Moves & Poké Edges
 and much more...
 
-### Images
-Player Character Sheet
-![character sheet image](https://cdn.discordapp.com/attachments/429729503149817856/801897991715029002/character-sheet.gif "Character Sheet Preview")
-Pokemon Sheet
-![pokemon sheet image](https://media.discordapp.net/attachments/429729503149817856/801896273473044540/pokemon-sheet.gif "Pokemon Sheet Preview")
-Custom Species Editor (V1, UI WIP)
-![custom species editor image](https://cdn.discordapp.com/attachments/429729503149817856/801898798816296980/custom-species-editor.gif "Custom Species Editor Preview")
-Drag & Drop Support Example
-![drag & drop support](https://cdn.discordapp.com/attachments/429729503149817856/801898068530167829/drag-and-drop.gif "Drag & Drop Preview")
-
 ## Links & Recommendations
 - [Quick Insert](https://gitlab.com/fvtt-modules-lab/quick-insert) is an amazing addon that allows you to drag & drop all over the place even more easily. We 1000% recommend using their module in conjuncture with our system!
 
 ## Special Thanks
-* [dylanpiera](https://github.com/dylanpiera) for countiuing thhis project up to V10!
+* [dylanpiera](https://github.com/dylanpiera) for countiuing this project up to V10!
 * [cswendrowski](https://github.com/cswendrowski) for starting this project!
 * https://www.theworldofpokemon.com/ for their amazing pokedex entries 
 * The Amazing People and their amazing feedback, over at the [FVTTPTU Dev Server](https://discord.gg/fE3w59q)
