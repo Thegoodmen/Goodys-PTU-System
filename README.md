@@ -24,10 +24,6 @@ Drag & Drop Support Example
 
 ## Links & Recommendations
 - [Quick Insert](https://gitlab.com/fvtt-modules-lab/quick-insert) is an amazing addon that allows you to drag & drop all over the place even more easily. We 1000% recommend using their module in conjuncture with our system!
-- [Version 2 QOL Features & Bug Issues](https://github.com/dylanpiera/Foundry-Pokemon-Tabletop-United-System/issues?q=is:open+is:issue+milestone:%22Version+2%22)
-- [Version 2 Charactermancer Issues](https://github.com/dylanpiera/Foundry-Pokemon-Tabletop-United-System/issues?q=is:open+is:issue+milestone:Charactermancer)
-- [Version 3 Issues](https://github.com/dylanpiera/Foundry-Pokemon-Tabletop-United-System/issues?q=is:open+is:issue+milestone:%22Automated+Combat+System%22)
-- [Wiki](https://github.com/dylanpiera/Foundry-Pokemon-Tabletop-United-System/wiki) (currently WIP)
 
 ## Special Thanks
 * [dylanpiera](https://github.com/dylanpiera) for countiuing thhis project up to V10!
@@ -39,11 +35,11 @@ Drag & Drop Support Example
 Pokémon © 2002-2023 Pokémon. © 1995-2023 Nintendo/Creatures Inc./GAME FREAK inc. TM, ® and Pokémon character names are trademarks of Nintendo.
 No copyright or trademark infringement is intended in using Pokémon content for the PTU for FoundryVTT System.
 
-[foundry-shield]: https://img.shields.io/badge/Foundry-v10.291-informational
+[foundry-shield]: https://img.shields.io/badge/Foundry-v12.331-informational
 [foundry-url]: https://foundryvtt.com/
-[forks-shield]: https://img.shields.io/github/forks/dylanpiera/Foundry-Pokemon-Tabletop-United-System.svg?style=flat-square
-[forks-url]: https://github.com/dylanpiera/Foundry-Pokemon-Tabletop-United-System/network/members
-[stars-shield]: https://img.shields.io/github/stars/dylanpiera/Foundry-Pokemon-Tabletop-United-System.svg?style=flat-square
-[stars-url]: https://github.com/dylanpiera/Foundry-Pokemon-Tabletop-United-System/stargazers
-[issues-shield]: https://img.shields.io/github/issues/dylanpiera/Foundry-Pokemon-Tabletop-United-System.svg?style=flat-square
+[forks-shield]: https://img.shields.io/github/forks/Thegoodmen/Goodys-PTU-System.svg?style=flat-square
+[forks-url]: https://github.com/Thegoodmen/Goodys-PTU-System/network/members
+[stars-shield]: https://img.shields.io/github/stars/Thegoodmen/Goodys-PTU-System.svg?style=flat-square
+[stars-url]: https://github.com/Thegoodmen/Goodys-PTU-System/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Thegoodmen/Goodys-PTU-System.svg?style=flat-square
 [issues-url]: https://github.com/dylanpiera/Foundry-Pokemon-Tabletop-United-System/issues
